@@ -12049,5 +12049,31 @@
     "start_date_local": "2026-04-05T15:05:54Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 9025.6,
+    "elevation_gain": 121.0,
+    "id": "17996066947",
+    "moving_time": 1638.0,
+    "name": "Pre-Ride mit Tara",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-06T10:39:08Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 47374.3,
+    "elevation_gain": 667.0,
+    "id": "17998552996",
+    "moving_time": 7465.0,
+    "name": "The ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-06T11:12:35Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
