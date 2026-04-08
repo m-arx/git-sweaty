@@ -12075,5 +12075,18 @@
     "start_date_local": "2026-04-06T11:12:35Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 52800.6,
+    "elevation_gain": 448.0,
+    "id": "18017237925",
+    "moving_time": 7718.0,
+    "name": "Straede after work ride 2026#1",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-07T17:30:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
