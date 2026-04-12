@@ -8405,6 +8405,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18042221722",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 11,
+      "name": "100km:2026:1",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18069539135",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14414,6 +14423,15 @@
           "distance": 34219.6,
           "elevation_gain": 326.0,
           "moving_time": 5216.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18069539135"
+          ],
+          "count": 1,
+          "distance": 125177.0,
+          "elevation_gain": 494.0,
+          "moving_time": 18990.0
         }
       },
       "Run": {
@@ -14567,7 +14585,7 @@
       }
     }
   },
-  "generated_at": "2026-04-11T15:21:51.750072+00:00",
+  "generated_at": "2026-04-12T15:25:22.891669+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22500835",
   "repo": "m-arx/git-sweaty",
