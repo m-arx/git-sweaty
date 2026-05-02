@@ -12309,5 +12309,44 @@
     "start_date_local": "2026-04-29T16:41:06Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 2396.4,
+    "elevation_gain": 8.7,
+    "id": "18336928832",
+    "moving_time": 2448.0,
+    "name": "Leere Schwarzenbachtalsperre anschauen.",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-01T10:22:30Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 4767.4,
+    "elevation_gain": 131.6,
+    "id": "18336931399",
+    "moving_time": 4846.0,
+    "name": "Hornisgrindelunch",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-01T11:40:27Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 27122.8,
+    "elevation_gain": 221.0,
+    "id": "18348009251",
+    "moving_time": 3711.0,
+    "name": "Hausrunde+",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-02T16:17:50Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
