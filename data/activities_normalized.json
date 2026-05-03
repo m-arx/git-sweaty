@@ -12348,5 +12348,18 @@
     "start_date_local": "2026-05-02T16:17:50Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 22933.0,
+    "elevation_gain": 270.0,
+    "id": "18360778141",
+    "moving_time": 4295.0,
+    "name": "3.5/5 Tour de Karlsbad mit Tara",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-03T14:34:50Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

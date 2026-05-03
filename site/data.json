@@ -8549,6 +8549,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18348009251",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 14,
+      "name": "3.5/5 Tour de Karlsbad mit Tara",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18360778141",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14644,6 +14653,15 @@
           "distance": 27122.8,
           "elevation_gain": 221.0,
           "moving_time": 3711.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18360778141"
+          ],
+          "count": 1,
+          "distance": 22933.0,
+          "elevation_gain": 270.0,
+          "moving_time": 4295.0
         }
       },
       "Run": {
@@ -14807,7 +14825,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:35:41.883983+00:00",
+  "generated_at": "2026-05-03T15:35:46.115097+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22500835",
   "repo": "m-arx/git-sweaty",
