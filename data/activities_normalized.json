@@ -12387,5 +12387,31 @@
     "start_date_local": "2026-05-04T17:15:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 5339.0,
+    "elevation_gain": 2.1,
+    "id": "18415688459",
+    "moving_time": 2627.0,
+    "name": "B2Run 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-07T19:00:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 19159.7,
+    "elevation_gain": 110.0,
+    "id": "18421326710",
+    "moving_time": 2653.0,
+    "name": "to the office ... 05/08/2026 07:08 h \ud83e\udd76",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-08T07:08:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
