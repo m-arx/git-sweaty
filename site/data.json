@@ -8603,6 +8603,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18433241419",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 7,
+      "name": "RTF Heidelberg \u201ePanorama Tour\u201c",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18450367735",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14727,6 +14736,15 @@
           "distance": 36250.3,
           "elevation_gain": 331.0,
           "moving_time": 5470.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18450367735"
+          ],
+          "count": 1,
+          "distance": 91923.9,
+          "elevation_gain": 1101.0,
+          "moving_time": 13489.0
         }
       },
       "Run": {
@@ -14899,7 +14917,7 @@
       }
     }
   },
-  "generated_at": "2026-05-09T15:39:27.453550+00:00",
+  "generated_at": "2026-05-10T15:40:36.329747+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22500835",
   "repo": "m-arx/git-sweaty",

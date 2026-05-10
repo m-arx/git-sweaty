@@ -12426,5 +12426,18 @@
     "start_date_local": "2026-05-08T16:34:35Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 91923.9,
+    "elevation_gain": 1101.0,
+    "id": "18450367735",
+    "moving_time": 13489.0,
+    "name": "RTF Heidelberg \u201ePanorama Tour\u201c",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-10T07:41:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
