@@ -12478,5 +12478,31 @@
     "start_date_local": "2026-05-13T07:21:20Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 24461.7,
+    "elevation_gain": 171.0,
+    "id": "18493459171",
+    "moving_time": 3727.0,
+    "name": "...and back home 05/13/2026 16:36 h",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-13T16:36:01Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 41510.8,
+    "elevation_gain": 439.0,
+    "id": "18506188619",
+    "moving_time": 8772.0,
+    "name": "Tour de Vogel 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-05-14T09:30:00Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
