@@ -12504,5 +12504,18 @@
     "start_date_local": "2026-05-14T09:30:00Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 67059.2,
+    "elevation_gain": 377.0,
+    "id": "18542787211",
+    "moving_time": 9306.0,
+    "name": "Locker rumrollen\u2026 that escalated quickly",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-17T11:57:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

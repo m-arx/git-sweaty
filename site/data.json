@@ -8657,6 +8657,15 @@
       "type": "MountainBikeRide",
       "url": "https://www.strava.com/activities/18506188619",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 11,
+      "name": "Locker rumrollen\u2026 that escalated quickly",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18542787211",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14819,6 +14828,15 @@
           "distance": 41698.600000000006,
           "elevation_gain": 278.0,
           "moving_time": 6131.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18542787211"
+          ],
+          "count": 1,
+          "distance": 67059.2,
+          "elevation_gain": 377.0,
+          "moving_time": 9306.0
         }
       },
       "Run": {
@@ -14991,7 +15009,7 @@
       }
     }
   },
-  "generated_at": "2026-05-16T15:44:52.336505+00:00",
+  "generated_at": "2026-05-17T15:46:55.126470+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22500835",
   "repo": "m-arx/git-sweaty",
