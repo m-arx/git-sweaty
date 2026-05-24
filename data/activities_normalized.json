@@ -12569,5 +12569,18 @@
     "start_date_local": "2026-05-22T15:59:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 102907.0,
+    "elevation_gain": 282.0,
+    "id": "18633857750",
+    "moving_time": 13576.0,
+    "name": "Frankreich Runde",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-24T07:31:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
