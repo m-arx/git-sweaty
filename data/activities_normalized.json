@@ -12686,5 +12686,18 @@
     "start_date_local": "2026-05-29T15:02:12Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 27156.8,
+    "elevation_gain": 219.0,
+    "id": "18745350545",
+    "moving_time": 3585.0,
+    "name": "Hausrunde+ mit extra Adrenalin",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-01T18:45:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
