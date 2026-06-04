@@ -12699,5 +12699,31 @@
     "start_date_local": "2026-06-01T18:45:39Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 3289.8,
+    "elevation_gain": 55.3,
+    "id": "18779233356",
+    "moving_time": 3225.0,
+    "name": "Rund um den Lothar, Specht und Panoramaweg",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-03T12:02:59Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 3983.2,
+    "elevation_gain": 159.3,
+    "id": "18779234947",
+    "moving_time": 3882.0,
+    "name": "Allerheiligen",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-03T14:07:36Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

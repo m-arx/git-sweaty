@@ -8792,6 +8792,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18745350545",
       "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 12,
+      "name": "Rund um den Lothar, Specht und Panoramaweg",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18779233356",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 14,
+      "name": "Allerheiligen",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18779234947",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14604,6 +14622,18 @@
       }
     },
     "2026": {
+      "Hike": {
+        "2026-06-03": {
+          "activity_ids": [
+            "18779233356",
+            "18779234947"
+          ],
+          "count": 2,
+          "distance": 7273.0,
+          "elevation_gain": 214.60000000000002,
+          "moving_time": 7107.0
+        }
+      },
       "MountainBikeRide": {
         "2026-04-05": {
           "activity_ids": [
@@ -15213,7 +15243,7 @@
       }
     }
   },
-  "generated_at": "2026-06-03T18:38:23.856594+00:00",
+  "generated_at": "2026-06-04T17:37:20.104893+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22500835",
   "repo": "m-arx/git-sweaty",
