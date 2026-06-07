@@ -12738,5 +12738,18 @@
     "start_date_local": "2026-06-05T14:00:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 87440.1,
+    "elevation_gain": 810.0,
+    "id": "18824443010",
+    "moving_time": 13925.0,
+    "name": "Das muss Kacheln (Tilehunting)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-07T10:36:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
