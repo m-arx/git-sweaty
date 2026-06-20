@@ -12803,5 +12803,18 @@
     "start_date_local": "2026-06-19T06:23:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 65668.5,
+    "elevation_gain": 1043.0,
+    "id": "18994792081",
+    "moving_time": 11532.0,
+    "name": "Collecting Tiles and elevation",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-20T08:18:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
