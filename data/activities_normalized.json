@@ -12894,5 +12894,18 @@
     "start_date_local": "2026-06-25T17:04:56Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 81904.9,
+    "elevation_gain": 621.0,
+    "id": "19096032235",
+    "moving_time": 11523.0,
+    "name": "Hausrunde *3 \ud83e\udd75",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T08:15:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
