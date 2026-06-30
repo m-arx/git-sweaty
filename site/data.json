@@ -8936,6 +8936,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19096032235",
       "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 6,
+      "name": "to the office ... 06/30/2026 06:36 h",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19119633427",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15291,6 +15300,15 @@
           "distance": 81904.9,
           "elevation_gain": 621.0,
           "moving_time": 11523.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19119633427"
+          ],
+          "count": 1,
+          "distance": 47118.5,
+          "elevation_gain": 207.0,
+          "moving_time": 6281.0
         }
       },
       "Run": {
@@ -15463,7 +15481,7 @@
       }
     }
   },
-  "generated_at": "2026-06-29T17:25:47.010005+00:00",
+  "generated_at": "2026-06-30T16:59:09.068741+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22500835",
   "repo": "m-arx/git-sweaty",
