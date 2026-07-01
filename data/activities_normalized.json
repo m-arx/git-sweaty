@@ -12920,5 +12920,31 @@
     "start_date_local": "2026-06-30T06:36:25Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 72805.7,
+    "elevation_gain": 217.0,
+    "id": "19127411377",
+    "moving_time": 9322.0,
+    "name": "Straede Crew ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-30T16:51:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 17454.1,
+    "elevation_gain": 210.0,
+    "id": "19128410928",
+    "moving_time": 3048.0,
+    "name": "...and back home 06/30/2026 20:35 h \ud83e\udd75",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-30T20:35:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
