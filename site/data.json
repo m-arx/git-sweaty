@@ -8972,6 +8972,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19146563577",
       "year": 2026
+    },
+    {
+      "date": "2026-07-02",
+      "hour": 16,
+      "name": "...and back home 07/02/2026 16:47 h",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19158759967",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-03",
+      "hour": 6,
+      "name": "to the office ... 07/03/2026 06:52 h",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19159810261",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-03",
+      "hour": 15,
+      "name": "...and back home 07/03/2026 15:32 h",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19164155797",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15341,12 +15368,23 @@
         },
         "2026-07-02": {
           "activity_ids": [
-            "19146563577"
+            "19146563577",
+            "19158759967"
           ],
-          "count": 1,
-          "distance": 17400.0,
-          "elevation_gain": 106.0,
-          "moving_time": 2267.0
+          "count": 2,
+          "distance": 34811.3,
+          "elevation_gain": 322.0,
+          "moving_time": 5006.0
+        },
+        "2026-07-03": {
+          "activity_ids": [
+            "19159810261",
+            "19164155797"
+          ],
+          "count": 2,
+          "distance": 37133.2,
+          "elevation_gain": 340.0,
+          "moving_time": 5685.0
         }
       },
       "Run": {
@@ -15519,7 +15557,7 @@
       }
     }
   },
-  "generated_at": "2026-07-02T16:31:14.759144+00:00",
+  "generated_at": "2026-07-03T16:17:23.580948+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22500835",
   "repo": "m-arx/git-sweaty",
