@@ -13024,5 +13024,18 @@
     "start_date_local": "2026-07-04T11:41:12Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 75030.6,
+    "elevation_gain": 750.0,
+    "id": "19186597835",
+    "moving_time": 11330.0,
+    "name": "K\u00e4ppele Runde",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-05T08:30:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
