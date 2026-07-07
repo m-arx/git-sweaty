@@ -13070,10 +13070,36 @@
     "elevation_gain": 122.0,
     "id": "19203687853",
     "moving_time": 1898.0,
-    "name": "Evening Ride",
+    "name": "Mit Kind zur Gelateria",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-07-06T18:32:01Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 38235.3,
+    "elevation_gain": 142.0,
+    "id": "19210373800",
+    "moving_time": 5212.0,
+    "name": "to the office ... 07/07/2026 07:09 h",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-07T07:09:54Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 17368.9,
+    "elevation_gain": 212.0,
+    "id": "19216452742",
+    "moving_time": 2743.0,
+    "name": "...and back home 07/07/2026 16:50 h \ud83e\udd75",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-07T16:50:52Z",
     "type": "Ride",
     "year": 2026
   }
