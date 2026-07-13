@@ -13167,5 +13167,31 @@
     "start_date_local": "2026-07-12T05:57:34Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 17577.6,
+    "elevation_gain": 105.0,
+    "id": "19290652204",
+    "moving_time": 2349.0,
+    "name": "to the office ... 07/13/2026 08:07 h",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-13T08:07:02Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 17441.2,
+    "elevation_gain": 213.0,
+    "id": "19296423386",
+    "moving_time": 2970.0,
+    "name": "...and back home 07/13/2026 17:03 h \ud83e\udd75",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-13T17:03:47Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
