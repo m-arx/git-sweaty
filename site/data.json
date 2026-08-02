@@ -9179,6 +9179,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19516894625",
       "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 17,
+      "name": "Dog sitting in Schlaitdorf",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19560387546",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15834,6 +15843,15 @@
           "distance": 7163.799999999999,
           "elevation_gain": 140.29999999999998,
           "moving_time": 7294.0
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "19560387546"
+          ],
+          "count": 1,
+          "distance": 2863.0,
+          "elevation_gain": 43.2,
+          "moving_time": 2949.0
         }
       },
       "Workout": {
@@ -15849,7 +15867,7 @@
       }
     }
   },
-  "generated_at": "2026-08-01T15:48:43.766406+00:00",
+  "generated_at": "2026-08-02T15:49:16.356940+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22500835",
   "repo": "m-arx/git-sweaty",
