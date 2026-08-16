@@ -13427,5 +13427,31 @@
     "start_date_local": "2026-08-12T16:43:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 39097.7,
+    "elevation_gain": 137.0,
+    "id": "19755409928",
+    "moving_time": 5640.0,
+    "name": "Einrollern - Cyclassics 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T16:44:56Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 107511.0,
+    "elevation_gain": 599.0,
+    "id": "19763251939",
+    "moving_time": 11712.0,
+    "name": "Cyclassics 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-16T08:18:41Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
