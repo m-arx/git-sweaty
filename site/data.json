@@ -9314,6 +9314,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19763251939",
       "year": 2026
+    },
+    {
+      "date": "2026-08-18",
+      "hour": 20,
+      "name": "OKF1",
+      "subtype": "MountainBikeRide",
+      "type": "MountainBikeRide",
+      "url": "https://www.strava.com/activities/19798537527",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 7,
+      "name": "Skovmose",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19804345806",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 14,
+      "name": "Leuchtturm kucken",
+      "subtype": "MountainBikeRide",
+      "type": "MountainBikeRide",
+      "url": "https://www.strava.com/activities/19809038178",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15156,6 +15183,24 @@
           "distance": 41510.8,
           "elevation_gain": 439.0,
           "moving_time": 8772.0
+        },
+        "2026-08-18": {
+          "activity_ids": [
+            "19798537527"
+          ],
+          "count": 1,
+          "distance": 5074.2,
+          "elevation_gain": 9.0,
+          "moving_time": 1399.0
+        },
+        "2026-08-19": {
+          "activity_ids": [
+            "19809038178"
+          ],
+          "count": 1,
+          "distance": 10716.0,
+          "elevation_gain": 55.0,
+          "moving_time": 2760.0
         }
       },
       "Ride": {
@@ -15905,6 +15950,15 @@
           "distance": 5339.0,
           "elevation_gain": 2.1,
           "moving_time": 2627.0
+        },
+        "2026-08-19": {
+          "activity_ids": [
+            "19804345806"
+          ],
+          "count": 1,
+          "distance": 1927.1,
+          "elevation_gain": 3.2,
+          "moving_time": 931.0
         }
       },
       "Swim": {
@@ -16071,7 +16125,7 @@
       }
     }
   },
-  "generated_at": "2026-08-18T15:18:37.542974+00:00",
+  "generated_at": "2026-08-19T15:17:59.810848+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22500835",
   "repo": "m-arx/git-sweaty",
