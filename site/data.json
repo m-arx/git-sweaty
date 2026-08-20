@@ -9341,6 +9341,15 @@
       "type": "MountainBikeRide",
       "url": "https://www.strava.com/activities/19809038178",
       "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 16,
+      "name": "Boote und Burgen | K\u00f6nige und Kapit\u00e4ne | Schiffe und Schl\u00f6sser",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19811340625",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15912,6 +15921,15 @@
           "distance": 107511.0,
           "elevation_gain": 599.0,
           "moving_time": 11712.0
+        },
+        "2026-08-19": {
+          "activity_ids": [
+            "19811340625"
+          ],
+          "count": 1,
+          "distance": 44228.7,
+          "elevation_gain": 281.0,
+          "moving_time": 6149.0
         }
       },
       "Run": {
@@ -16125,7 +16143,7 @@
       }
     }
   },
-  "generated_at": "2026-08-19T15:17:59.810848+00:00",
+  "generated_at": "2026-08-20T15:21:26.688310+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22500835",
   "repo": "m-arx/git-sweaty",

@@ -13492,5 +13492,18 @@
     "start_date_local": "2026-08-19T14:19:36Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 44228.7,
+    "elevation_gain": 281.0,
+    "id": "19811340625",
+    "moving_time": 6149.0,
+    "name": "Boote und Burgen | K\u00f6nige und Kapit\u00e4ne | Schiffe und Schl\u00f6sser",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-19T16:40:25Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
