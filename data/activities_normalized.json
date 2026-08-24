@@ -13518,5 +13518,31 @@
     "start_date_local": "2026-08-22T20:20:27Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 33446.3,
+    "elevation_gain": 227.0,
+    "id": "19869056148",
+    "moving_time": 4554.0,
+    "name": "Ride with the wind and against and across it as well",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-23T18:33:38Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 24720.2,
+    "elevation_gain": 148.0,
+    "id": "19876979544",
+    "moving_time": 5573.0,
+    "name": "Kegn\u00e6s Bike Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-08-24T10:26:37Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
