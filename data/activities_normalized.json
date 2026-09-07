@@ -13583,5 +13583,44 @@
     "start_date_local": "2026-09-03T11:06:31Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 15713.5,
+    "elevation_gain": 234.0,
+    "id": "20065164137",
+    "moving_time": 2821.0,
+    "name": "Abendliche Ausfahrt mit Kind",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-06T18:57:41Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 17188.1,
+    "elevation_gain": 105.0,
+    "id": "20069305638",
+    "moving_time": 2164.0,
+    "name": "to the office ... 09/07/2026 06:49 h",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-07T06:49:34Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 18910.0,
+    "elevation_gain": 211.0,
+    "id": "20074768944",
+    "moving_time": 2642.0,
+    "name": "...and back home 09/07/2026 16:12 h \ud83e\udd75",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-07T16:12:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
