@@ -13804,5 +13804,31 @@
     "start_date_local": "2026-09-27T11:22:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 17108.9,
+    "elevation_gain": 103.0,
+    "id": "20373619792",
+    "moving_time": 2198.0,
+    "name": "to the office ... 09/29/2026 07:23 h",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-29T07:23:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 54157.6,
+    "elevation_gain": 529.0,
+    "id": "20382037906",
+    "moving_time": 7975.0,
+    "name": "...and back home with Straede",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-29T17:02:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
