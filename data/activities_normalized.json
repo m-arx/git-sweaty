@@ -13830,5 +13830,31 @@
     "start_date_local": "2026-09-29T17:02:36Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 7283.9,
+    "elevation_gain": 26.0,
+    "id": "20537239759",
+    "moving_time": 1221.0,
+    "name": "Zwift - Warm-up: Pacer Group Ride with Sofia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-11T10:02:31Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 12831.4,
+    "elevation_gain": 144.0,
+    "id": "20537677787",
+    "moving_time": 1710.0,
+    "name": "Zwift - RotW: Loop de Loop in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-11T10:28:40Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
