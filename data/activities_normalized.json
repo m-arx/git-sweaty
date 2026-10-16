@@ -13908,5 +13908,18 @@
     "start_date_local": "2026-10-13T17:07:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-16",
+    "distance": 17111.4,
+    "elevation_gain": 106.0,
+    "id": "20604541826",
+    "moving_time": 2390.0,
+    "name": "to the office ... 10/16/2026 07:07 h \ud83e\udd76",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-16T07:07:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
