@@ -13934,5 +13934,57 @@
     "start_date_local": "2026-10-16T16:32:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 42186.2,
+    "elevation_gain": 62.0,
+    "id": "20639160522",
+    "moving_time": 5099.0,
+    "name": "Zwift - Pacer Group Ride with Mochi",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-18T18:44:18Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 13020.3,
+    "elevation_gain": 48.0,
+    "id": "20639436190",
+    "moving_time": 1694.0,
+    "name": "Zwift - Beach Island Loop in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-18T20:10:59Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-19",
+    "distance": 17080.3,
+    "elevation_gain": 103.0,
+    "id": "20643160754",
+    "moving_time": 2373.0,
+    "name": "to the office ... 10/19/2026 07:11 h \ud83e\udd76",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-19T07:11:54Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-19",
+    "distance": 17273.0,
+    "elevation_gain": 218.0,
+    "id": "20649169610",
+    "moving_time": 2883.0,
+    "name": "...and back home 10/19/2026 17:26 h",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-19T17:26:47Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
