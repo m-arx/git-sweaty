@@ -13999,5 +13999,18 @@
     "start_date_local": "2026-10-26T09:47:53Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 27092.6,
+    "elevation_gain": 223.0,
+    "id": "20752074399",
+    "moving_time": 3582.0,
+    "name": "Hausrunde+",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-27T15:00:47Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
