@@ -14064,5 +14064,31 @@
     "start_date_local": "2026-11-04T20:20:37Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 23032.4,
+    "elevation_gain": 571.0,
+    "id": "20913199091",
+    "moving_time": 5712.0,
+    "name": "Zwift - Steady State Cruise",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-08T19:12:54Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 1294.6,
+    "elevation_gain": 7.0,
+    "id": "20916704607",
+    "moving_time": 812.0,
+    "name": "Morning Walk \ud83e\udd76",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-09T07:45:53Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
