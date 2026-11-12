@@ -9755,6 +9755,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20916704607",
       "year": 2026
+    },
+    {
+      "date": "2026-11-12",
+      "hour": 19,
+      "name": "Zwift - California Roll in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20963980241",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16761,6 +16770,15 @@
           "distance": 23032.4,
           "elevation_gain": 571.0,
           "moving_time": 5712.0
+        },
+        "2026-11-12": {
+          "activity_ids": [
+            "20963980241"
+          ],
+          "count": 1,
+          "distance": 34187.7,
+          "elevation_gain": 127.0,
+          "moving_time": 4028.0
         }
       },
       "Walk": {
@@ -16833,7 +16851,7 @@
       }
     }
   },
-  "generated_at": "2026-11-11T21:37:19.622433+00:00",
+  "generated_at": "2026-11-12T21:37:40.754975+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22500835",
   "repo": "m-arx/git-sweaty",

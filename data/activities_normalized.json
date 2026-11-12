@@ -14090,5 +14090,18 @@
     "start_date_local": "2026-11-09T07:45:53Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 34187.7,
+    "elevation_gain": 127.0,
+    "id": "20963980241",
+    "moving_time": 4028.0,
+    "name": "Zwift - California Roll in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-12T19:44:25Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
