@@ -14116,5 +14116,18 @@
     "start_date_local": "2026-11-15T10:01:40Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 31027.7,
+    "elevation_gain": 299.0,
+    "id": "21063203611",
+    "moving_time": 4198.0,
+    "name": "Zwift - Rolling Hills #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-20T21:04:51Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
