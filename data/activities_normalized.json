@@ -14129,5 +14129,18 @@
     "start_date_local": "2026-11-20T21:04:51Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 27016.9,
+    "elevation_gain": 425.0,
+    "id": "21103836239",
+    "moving_time": 4258.0,
+    "name": "Zwift - Over Ones on Knickerbocker, NYC",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-24T07:14:39Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
